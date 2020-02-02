@@ -1,0 +1,8 @@
+{
+  "realm": "limefamily",
+  "auth-server-url": "http://192.168.1.225:8080/auth/",
+  "ssl-required": "external",
+  "resource": "bed-management",
+  "public-client": true,
+  "confidential-port": 0
+}

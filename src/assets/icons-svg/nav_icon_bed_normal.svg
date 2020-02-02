@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>nav_icon_bed_normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="18" height="18"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="132.708213%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.403545673" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.652478">
+        <g id="ICON切图" transform="translate(-338.000000, -259.000000)">
+            <g id="导航栏icon" transform="translate(282.000000, 228.000000)">
+                <g id="导航栏icon未选中" transform="translate(55.000000, 0.000000)">
+                    <g id="nav_icon_bed_normal" transform="translate(0.000000, 29.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="矩形备份-2"></g>
+                        <g id="编组" mask="url(#mask-2)">
+                            <g transform="translate(2.426176, 3.002860)">
+                                <path d="M2.78825246,5.92804248 L2.78825246,4.68994724 C2.78825246,3.322385 3.61972364,2.21375676 4.64539532,2.21375676 L8.35968103,2.21375676 C9.38535271,2.21375676 10.2168239,3.322385 10.2168239,4.68994724 L10.2168239,5.92804248" id="路径" stroke="#ADB9FF"></path>
+                                <path d="M11.6071429,11.6071429 L11.6071429,12.5357143 M1.39285714,11.6071429 L1.39285714,12.5357143" id="形状结合" stroke="#ADB9FF" stroke-linecap="round"></path>
+                                <path d="M0.928571429,5.57142857 L0.928571429,1.11428571 C0.928571429,0.498882707 1.34430702,-7.99360578e-15 1.85714286,-7.99360578e-15 L1.85714286,-7.99360578e-15 L11.1428571,-7.99360578e-15 C11.655693,-7.99360578e-15 12.0714286,0.498882707 12.0714286,1.11428571 L12.0714286,5.57142857 L12.0714286,5.57142857" id="路径" stroke="url(#linearGradient-3)"></path>
+                                <path d="M1,5.57142857 L12,5.57142857 C12.5522847,5.57142857 13,6.01914382 13,6.57142857 L13,11.0428571 C13,11.0980856 12.9552285,11.1428571 12.9,11.1428571 L0.1,11.1428571 C0.044771525,11.1428571 -3.54058945e-16,11.0980856 0,11.0428571 L0,6.57142857 C-6.76353751e-17,6.01914382 0.44771525,5.57142857 1,5.57142857 Z" id="矩形" stroke="#FFFFFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

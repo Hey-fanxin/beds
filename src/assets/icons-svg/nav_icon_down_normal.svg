@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>nav_icon_down_normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="14"></rect>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.652211">
+        <g id="ICON切图" transform="translate(-389.000000, -262.000000)">
+            <g id="导航栏icon" transform="translate(282.000000, 228.000000)">
+                <g id="nav_icon_down_normal" transform="translate(105.000000, 30.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="矩形"></g>
+                    <path d="M10.8882109,4.5938983 C11.083473,4.39863615 11.4000555,4.39863615 11.5953176,4.5938983 C11.7905798,4.78916044 11.7905798,5.10574293 11.5953176,5.30100508 L11.5953176,5.30100508 L7.43873201,9.45980978 C7.41889511,9.49168817 7.39513132,9.52181872 7.36744064,9.5495094 C7.21471367,9.70223637 6.98776532,9.73550585 6.80270214,9.64931782 C6.74560329,9.62567362 6.69213676,9.59021235 6.64557017,9.54364577 C6.62914336,9.52721895 6.61409848,9.50993351 6.60043554,9.49193391 L2.41769317,5.30686872 C2.22243102,5.11160657 2.22243102,4.79502408 2.41769317,4.59976194 C2.61295532,4.40449979 2.9295378,4.40449979 3.12479995,4.59976194 L7.00324656,8.47845169 Z" id="形状结合" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

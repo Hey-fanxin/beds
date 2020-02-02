@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>nav_icon_file_normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="18" height="18"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.396033654" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.652478">
+        <g id="ICON切图" transform="translate(-339.000000, -315.000000)">
+            <g id="导航栏icon" transform="translate(282.000000, 228.000000)">
+                <g id="导航栏icon未选中" transform="translate(55.000000, 0.000000)">
+                    <g id="nav_icon_file_normal" transform="translate(0.000000, 86.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="矩形备份-4"></g>
+                        <g id="编组-3" mask="url(#mask-2)">
+                            <g transform="translate(3.000000, 2.000000)">
+                                <path d="M11.7236563,0.984974588 C11.7807635,1.08174163 11.8299541,1.183737 11.8703375,1.29006975 C11.9541265,1.5106935 12,1.74998959 12,2 L12,12 C12,13.1045695 11.1045695,14 10,14 L2,14 C0.8954305,14 0,13.1045695 0,12 L0,2 C0,1.58925816 0.123817969,1.20743556 0.336165154,0.889820944" id="路径" stroke="url(#linearGradient-3)"></path>
+                                <path d="M1.28077641,0 L10.7192236,0 C11.2715083,-1.01453063e-16 11.7192236,0.44771525 11.7192236,1 C11.7192236,1.08176181 11.7091962,1.16321502 11.6893661,1.24253563 L11.3787322,2.48507125 C11.1561487,3.37540525 10.3561825,4 9.43844719,4 L2.56155281,4 C1.64381753,4 0.843851313,3.37540525 0.621267813,2.48507125 L0.310633906,1.24253563 C0.176685179,0.706740717 0.502445873,0.163806227 1.03824078,0.0298574999 C1.11756139,0.0100273489 1.1990146,1.50194003e-17 1.28077641,0 Z" id="矩形备份" stroke="#FFFFFF"></path>
+                                <line x1="6.02269932" y1="2.22604149" x2="6.02269932" y2="5.72604149" id="直线-2" stroke="#ADB9FF" stroke-linecap="round"></line>
+                                <circle id="椭圆形" stroke="#ADB9FF" cx="6" cy="7" r="1"></circle>
+                                <circle id="椭圆形备份" stroke="#ADB9FF" cx="6.02696861" cy="2.08022514" r="1"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
